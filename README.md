@@ -1,3 +1,8 @@
+# Deprecation notice - 05-07-2025
+primary repository going forwards will be [located at just-one-more-repo](https://github.com/proverbialpennance/just-one-more-repo). It also has a binary cache.
+
+Archival of this repo may occur at any point in the future.
+
 # nixos-xivlauncher-rb
 
 [XIVLauncher-RB](https://github.com/rankynbass/XIVLauncher.Core) for NixOS.
